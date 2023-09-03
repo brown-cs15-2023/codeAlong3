@@ -1,4 +1,4 @@
-package workshop3stencil;
+package codeAlong3;
 
 public class Constants {
 
